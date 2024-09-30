@@ -3,7 +3,7 @@ This project was developed in 2021 for the "Electronic Systems for Sensor Acquis
 
 Authors:
 
-Alessandro Varaldi
-Alessandro De Toni
-Andrea Albasini
-Corrado Raiola
+- Alessandro Varaldi
+- Alessandro De Toni
+- Andrea Albasini
+- Corrado Raiola
